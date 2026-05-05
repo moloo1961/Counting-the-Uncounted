@@ -19,7 +19,7 @@ This project uses Python as the primary language in handling the merge and ratio
 
 requests pulls data from the World Bank's free API (specifically the gender indicators for Kenya), which requires no login or API key. Just a URL and a .get() call
 
-BeautifulSoop scrapes structured case numbers from NGO report pages and the KNBS site. 
+BeautifulSoop scrapes structured case numbers from NGO reports. 
 
 matplotlib draws the horizontal bar chart. Counties on the y-axis, gap ratio on the x-axis. 
 
